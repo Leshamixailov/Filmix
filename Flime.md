@@ -19,6 +19,7 @@
 ![Image alt](https://github.com/Leshamixailov/Flime/blob/master/Main.png)
 
 Топ 100
+
 ![Image alt](https://github.com/Leshamixailov/Flime/blob/master/Top%20100.png)
 
 Подборка
@@ -26,6 +27,7 @@
 ![Image alt](https://github.com/Leshamixailov/Flime/blob/master/Podborka.png)
 
 Описание фильма
+
 ![Image alt](https://github.com/Leshamixailov/Flime/blob/master/%D0%A4%D0%B8%D0%BB%D1%8C%D0%BC.png)
 
 # 2.3 Характеристики пользователей:
