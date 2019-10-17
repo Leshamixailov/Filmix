@@ -17,6 +17,9 @@
 Главное окно
 
 ![Image alt](https://github.com/Leshamixailov/Flime/blob/master/Main.png)
+![Image alt](https://github.com/Leshamixailov/Flime/blob/master/Top%20100.png)
+![Image alt](https://github.com/Leshamixailov/Flime/blob/master/Podborka.png)
+![Image alt](https://github.com/Leshamixailov/Flime/blob/master/%D0%A4%D0%B8%D0%BB%D1%8C%D0%BC.png)
 
 # 2.3 Характеристики пользователей:
 Подходит абсолютно всем пользователям. Люди имеющие начальное образование и выше, владеющие русским языком и способные работать с ПК на начальном уровне. Техническая грамотность и опыт работы с подобными приложениями не требуется.
